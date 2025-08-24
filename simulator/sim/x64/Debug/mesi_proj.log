@@ -1,0 +1,4 @@
+﻿  sim.c
+C:\Users\yohay\Desktop\יוחי\לימודים\שנה ד\סמסטר א'\ארכיטקטורה\פרויקט\mesi_proj\project_208389197_318847662_205613391\simulator\sim.c(21,20): warning C4101: 'index': unreferenced local variable
+C:\Users\yohay\Desktop\יוחי\לימודים\שנה ד\סמסטר א'\ארכיטקטורה\פרויקט\mesi_proj\project_208389197_318847662_205613391\simulator\sim.c(21,27): warning C4101: 'tag': unreferenced local variable
+  mesi_proj.vcxproj -> C:\Users\yohay\Desktop\יוחי\לימודים\שנה ד\סמסטר א'\ארכיטקטורה\פרויקט\mesi_proj\project_208389197_318847662_205613391\simulator\x64\Debug\sim.exe
